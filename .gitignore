@@ -1,0 +1,7 @@
+node_modules/
+yarn-error.log
+src/config/*
+!src/config/.gitkeep
+!src/config/multer.js
+tmp/*
+!tmp/.gitkeep
